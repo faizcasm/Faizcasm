@@ -14,10 +14,22 @@ I'm a **Full-Stack Developer** who specializes in building dynamic web applicati
 - **Tools**: Git, GitHub, Postman, Vercel, Cloudinary
 
 ## 📈 GitHub Stats:
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizcasm&show_icons=true&theme=radical)
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizcasm&show_icons=true&count_private=true&theme=radical&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizcasm&layout=compact&theme=radical)
 
+## 🏆 Contribution Graph:
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=faizcasm&theme=github)
+
 ## 📫 Let's Connect:
-- LinkedIn: [Faizan Hameed Tantray](https://linkedin.com/in/faizan-hameed)
-- Twitter: [@faiz_tantray](https://twitter.com/faiz_tantray)
-- Email: faizanhameed@gmail.com
+- LinkedIn: [Faizan Hameed](https://linkedin.com/in/faizan-hameed)
+- Twitter: [@faizanhameed690](https://twitter.com/faizanhameed690)
+- Email: faizanhameed690@gmail.com
+
+---
+
+### 🔥 Latest Blog Posts:
+> Display your blog posts (if applicable) with animated previews or links.
+
+---
+> Add a fun fact about yourself or an interesting achievement!
+
