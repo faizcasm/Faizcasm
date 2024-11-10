@@ -14,8 +14,8 @@ I'm a **Full-Stack Developer** who specializes in building dynamic web applicati
 - **Tools**: Git, GitHub, Postman, Vercel, Cloudinary
 
 ## 📈 GitHub Stats:
-![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizcasm&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizcasm&layout=compact&theme=radical)
 
 ## 📫 Let's Connect:
 - LinkedIn: [Faizan Hameed Tantray](https://linkedin.com/in/faizan-hameed)
