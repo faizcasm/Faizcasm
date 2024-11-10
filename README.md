@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Faizan Hameed Tantray!
 
-![Background Image](https://res.cloudinary.com/dvqs8ferk/image/upload/v1729588695/ouk5bfon)
+![Background Image](https://github.com/faizcasm/Faizcasm/IMG_20241102_163806.jpg)
 
 I'm a **Full-Stack Developer** who specializes in building dynamic web applications with **React.js, Next.js, Node.js**, and **MongoDB**. I'm passionate about learning and exploring new technologies like **Machine Learning**, **React Native**, and **Web 3.0**.
 
