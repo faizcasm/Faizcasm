@@ -59,14 +59,8 @@ Etc
 
 ---
 
-## ✨ Contributions:
-
-![Contributions](https://github.com/faizcasm/faizcasm/blob/main/assets/github-contributions.svg)
-
----
-
 ## 🌍 Let's Connect:
-- **LinkedIn**: [Faizan Hameed](https://linkedin.com/in/faizan-hameed)  
+- **LinkedIn**: [Faizan Hameed](https://linkedin.com/in/faizan-hameed-tantray)  
 - **Twitter**: [@faizanhameed690](https://twitter.com/faizcasm)  
 - **Email**: [faizanhameed690@gmail.com](mailto:faizanhameed690@gmail.com)
 
