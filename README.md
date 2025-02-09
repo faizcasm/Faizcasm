@@ -10,8 +10,8 @@ I'm a **Full-Stack Developer** who specializes in building dynamic web applicati
 
 ## 💻 Skills & Tools:
 - **Frontend**: React.js, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, MongoDB
-- **Tools**: Git, GitHub, Postman, Vercel, Cloudinary
+- **Backend**: Node.js, Express.js, MongoDB,Postgres
+- **Tools**: Git, GitHub, Postman, Vercel, Cloudinary, Digital Ocean, Fly.Io, GPT
 
 ---
 
@@ -28,12 +28,13 @@ I'm a **Full-Stack Developer** who specializes in building dynamic web applicati
 ---
 
 ## 🌟 Founder of **Wolvinix**:
-I am the proud founder of **Wolvinix**, a platform for **innovative web development** and **cutting-edge technologies**. [Check out Wolvinix](#) for more details!
+I am the proud founder of **Wolvinix**, a platform for **Gamers** and **Competitive Players**. [Check out Wolvinix](https://wolvinix.com) for more details!
 
 ---
 
 ## 🌱 I'm Currently Learning:
-- **Machine Learning**
+- **AI / ML**
+- **Cyber security**
 - **Web 3.0**
 - **React Native**
 
@@ -45,15 +46,15 @@ I am the proud founder of **Wolvinix**, a platform for **innovative web developm
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
+Etc
 ---
 
 ## 🎬 My Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding WebSockets](https://dev.to/faizan_hameed/understanding-websockets)
-- [Mastering Redux Toolkit](https://dev.to/faizan_hameed/mastering-redux-toolkit)
-- [Building a Responsive Chat App](https://dev.to/faizan_hameed/building-a-responsive-chat-app)
+- [Understanding Telegram Bots](https://faizcasm.in/blog/dark-web)
+- [React Guide](https://faizcasm.in/blog/me)
+- [Wolvinix : A Social Media Platform For Gamers](https://faizcasm.in/blog/wolvinix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -66,7 +67,7 @@ I am the proud founder of **Wolvinix**, a platform for **innovative web developm
 
 ## 🌍 Let's Connect:
 - **LinkedIn**: [Faizan Hameed](https://linkedin.com/in/faizan-hameed)  
-- **Twitter**: [@faizanhameed690](https://twitter.com/faizanhameed690)  
+- **Twitter**: [@faizanhameed690](https://twitter.com/faizcasm)  
 - **Email**: [faizanhameed690@gmail.com](mailto:faizanhameed690@gmail.com)
 
 ---
