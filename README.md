@@ -5,8 +5,8 @@ I'm a **Full-Stack Developer** who specializes in building dynamic web applicati
 ---
 
 ## 🔭 Current Projects:
-- 🍔 **[Full-Stack Food Delivery App](#)**: A complete food delivery app using **Next.js**, **Node.js**, and **MongoDB** with features like user authentication, menu fetching, cart management, and order processing.  
-- 🚀 **[Fullstack social media app](#)**: A Social media PWA for gamers.
+- 🍔 **[Full-Stack Food Delivery App](https://foodify-seven.vercel.app)**: A complete food delivery app using **Next.js**, **Node.js**, and **MongoDB** with features like user authentication, menu fetching, cart management, and order processing.  
+- 🚀 **[Wolvinix](https://wolvinix.com)**: A Social media PWA for gamers.
 
 ## 💻 Skills & Tools:
 - **Frontend**: React.js, Next.js, Tailwind CSS
