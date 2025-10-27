@@ -61,7 +61,6 @@ DSA (LeetCode + Systematic Learning) • Linux • Git Workflows
 
 ## 🌱 Currently Learning & Deep Diving
 - **Advanced System Design**
-- **DSA (Arrays, Strings, Trees, Graphs, DP)**
 - **High Performance Backends & Distributed Systems**
 - **GenAI Pipelines & Vector Databases**
 
