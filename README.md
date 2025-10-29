@@ -17,6 +17,10 @@ I focus on **backend systems**, distributed architecture, caching strategies, da
   Real-time chat, posts, profiles, activity feed & tournaments.  
   https://wolvinix.com
 
+- 📚 **Zanly - Study materials platform**
+- https://zanly-nu.vercel.app
+- Can handle 1m+ users
+- repo : https://github.com/faizcasm/zanly.git
 ---
 
 ## 💻 Skills & Tech Expertise
