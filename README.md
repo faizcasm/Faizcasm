@@ -85,9 +85,9 @@ DSA (LeetCode + Systematic Learning) • Linux • Git Workflows
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Telegram Bots](https://faizcasm.in/blog/dark-web)
-- [React Guide](https://faizcasm.in/blog/me)
-- [Wolvinix : A Social Media Platform For Gamers](https://faizcasm.in/blog/wolvinix)
+- [Understanding Telegram Bots](https://faizcasm.me/blog/dark-web)
+- [React Guide](https://faizcasm.me/blog/me)
+- [Wolvinix : A Social Media Platform For Gamers](https://faizcasm.me/blog/wolvinix)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -99,7 +99,7 @@ DSA (LeetCode + Systematic Learning) • Linux • Git Workflows
 | 🧑‍💼 LinkedIn | https://linkedin.com/in/faizan-hameed-tantray |
 | 🐦 Twitter | https://twitter.com/faizcasm |
 | 📧 Email | faizanhameed690@gmail.com |
-| 🔗 Portfolio | https://faizcasm.in |
+| 🔗 Portfolio | https://faizcasm.me |
 
 ---
 
